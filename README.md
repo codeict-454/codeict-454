@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeict-454
+- 👋 Hi, I’m @maheer-sazid
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTTML and CSS
 - 💞️ I’m looking to collaborate on ...
